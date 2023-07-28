@@ -20,13 +20,13 @@ This is a simple chat application built with Python and Tkinter. It allows multi
 
 Run `server.py` to start the server:
 
-`python server.py`
+`python server tk.py`
 
 Server will display its IP address for clients to connect to. 
 
 ### Client
 
-Run `client.py` and enter:
+Run `client_tk.py` and enter:
 
 - Server IP address
 - Desired user name
