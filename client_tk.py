@@ -288,6 +288,7 @@ class Second_frame:
 
 first = First_window()
 first.start()
+second = Second_frame()
 
 window.mainloop()
 
